@@ -1,6 +1,6 @@
 # Bộ skill Claude tiếng Việt
 
-10 skill (kỹ năng) tiếng Việt cho Claude, dành cho người làm văn phòng, trợ lý lãnh đạo hoặc quản lý một thương hiệu nhỏ.
+12 skill (kỹ năng) tiếng Việt cho Claude, dành cho người làm văn phòng, trợ lý lãnh đạo hoặc quản lý một thương hiệu nhỏ.
 
 ## Danh sách skill
 
@@ -12,9 +12,11 @@
 | [giang-de-hieu](skills/giang-de-hieu) | Giải thích một vấn đề cho người dùng hiểu thật (tài liệu, quy trình, số liệu, công cụ, code, kiến thức dinh dưỡng…): ngắn trước, sâu dần theo nhịp. |
 | [hoi-dong-co-van](skills/hoi-dong-co-van) | Họp hội đồng cố vấn ảo (Tài chính, Marketing, Bán hàng, Vận hành, Nhân sự, Pháp lý…) để phân tích một quyết định lớn cho doanh nghiệp nhỏ hoặc nơi làm việc rồi chốt hành động. |
 | [huong-dan-dung-tro-ly-ai](skills/huong-dan-dung-tro-ly-ai) | Huấn luyện người dùng dùng Claude hiệu quả: chọn đúng chế độ, viết prompt 4 bước, xây thư viện prompt, dùng skill/plugin/kết nối (Canva, Gmail, Drive), quản lý bộ nhớ, tiết kiệm lượt dùng. |
+| [lam-viec-theo-dac-ta](skills/lam-viec-theo-dac-ta) | Làm việc nhiều bước (kế hoạch, dự án, chiến dịch, quy trình mới) theo trình tự Đặc tả → Làm rõ → Kế hoạch → Đầu việc → Rà soát → Thực hiện, phỏng theo GitHub Spec Kit. |
 | [phan-loai-hop-thu](skills/phan-loai-hop-thu) | Quét Gmail, phân loại thư theo 3 mức khẩn và soạn sẵn thư trả lời, chỉ gửi khi người dùng duyệt. |
 | [quan-ly-cong-viec](skills/quan-ly-cong-viec) | Quản lý mục tiêu quý và danh sách việc cần làm trên Google Sheet, nhắc việc trễ hạn và bắt tay làm giúp. |
 | [tro-ly-chanh-van-phong](skills/tro-ly-chanh-van-phong) | Bản tin buổi sáng, cập nhật lịch giữa ngày và tổng kết cuối ngày cho người làm thư ký/trợ lý lãnh đạo kiêm quản lý một thương hiệu nhỏ. |
+| [video-shotcraft](skills/video-shotcraft) | Làm video quảng bá/clip có chuyển động điện ảnh bằng Remotion theo bộ video-shotcraft (124 thẻ hiệu ứng, mẫu Ink Press, khớp nhạc, âm thanh): video giới thiệu sản phẩm, chữ động, mở đầu–kết thúc. |
 | [xuong-phat-minh-san-pham](skills/xuong-phat-minh-san-pham) | Nghĩ và kiểm định ý tưởng sản phẩm/dịch vụ mới cho thương hiệu nhỏ (món mới, gói tháng, hộp quà, dịch vụ teabreak, chi nhánh…) qua 4 bước và 25 mô hình tư duy: nhu cầu, sáng tạo, khả thi, định giá, giữ chân. |
 
 ## Cách cài
